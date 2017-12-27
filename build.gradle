@@ -9,3 +9,5 @@ jar{
 		attributes 'Main-Class': 'com.manning.gia.todo.ToDoApp'
 	}
 }
+
+buildDir='out'
